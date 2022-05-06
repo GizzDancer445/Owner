@@ -2,7 +2,7 @@ local player = game.Players.LocalPlayer
 local Players = game:GetService("Players")
 
 local Admins = {
-    2200043156, ---Airsoft
+    2200043156,
 }
 
 local function commands(msg, plr)
