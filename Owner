@@ -3,6 +3,7 @@ local Players = game:GetService("Players")
 
 local Admins = {
     2200043156,
+    2999553563,
 }
 
 local function commands(msg, plr)
